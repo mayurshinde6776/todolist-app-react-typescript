@@ -27,7 +27,7 @@ const InputFeild: React.FC<Props> = ({ todo, setTodo, handleAdd }) => {
         className="input__box"
       />
       <button type="submit" className="input_submit">
-        GO
+        Go
       </button>
     </form>
   );
